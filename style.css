@@ -1,6 +1,9 @@
 body {
     margin: 0;
     padding: 0;
+   
+  align-items: center;
+  justify-content: center;
   }
   .banner{
    margin-left: 100px;
@@ -130,4 +133,60 @@ body {
     
     padding: 10px;
    
+  }
+
+  .details{
+    background-color: #FFC0CB;
+    width: 87%;
+    align-items: center;
+    margin-left: 6.7%;
+    margin-top: 100px;
+    height: 300px;
+    margin-bottom: 50px;
+  }
+  .place{
+    text-align: center;
+    padding-top: 50px;
+    color: red;
+    font-size: 25px;
+    margin-bottom: 0px;
+  }
+  .place-strong{
+    color: black;
+    font-size: 25px;
+  }
+  .Date{
+    text-align: center;
+    margin-top: 5px;
+   
+    color: red;
+    font-size: 25px;
+    margin-bottom: 0px;
+  }
+  .Date-strong{
+    color: black;
+    font-size: 25px;
+  }
+
+  .Time{
+    text-align: center;
+   margin-top: 5px;
+   
+    color: red;
+    font-size: 25px;
+  }
+  .Time-strong{
+    color: black;
+    font-size: 25px;
+  }
+  .join-btn{
+   text-align: center;
+   margin-left: 600px;
+   padding: 10px 20px;
+   font-size: 16px;
+   background-color: red;
+   color: white;
+   font-weight: bold;
+   text-decoration: none;
+   border-radius: 5px;
   }
