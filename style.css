@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  .banner{
+   margin-left: 100px;
+   margin-top: 30px;
+   opacity: 130%;
+   
+}
+
+  .image-container {
+    position: relative;
+    display: inline-block; /* Ensure the container doesn't collapse */
+    
+  }
+  
+  .text-overlay {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.7); /* Adjust the background color and opacity */
+    padding: 10px;
+  }
+  .party-text{
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 80px;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.7); /* Adjust the background color and opacity */
+    padding: 10px;
+  }
+  
