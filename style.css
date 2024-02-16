@@ -190,3 +190,53 @@ body {
    text-decoration: none;
    border-radius: 5px;
   }
+
+
+  .offer-section{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 100px;
+  }
+
+  .offer-title{
+    font-size: 30px;
+    color: red;
+    margin-bottom: 20px;
+    
+  }
+  .offer-title-1{
+    font-size: 55px;
+    color: black;
+    margin-top: 10px;
+    font-weight: bold;
+    margin-bottom: 0px;
+  }
+
+  .offer-description{
+    margin-top: 10px;
+    font-size:20px;
+  }
+  .div-1{
+    margin-top: 50px;
+  }
+  .div-2{
+    margin-left: 100px;
+  }
+  .offer-banner{
+    height: 300px;
+    border: 10px solid red;
+    border-radius: 100%;
+    padding: 10px;
+  }
+  .div-3{
+    margin-left: 150px;
+    margin-top: 50px;
+  }
+
+  .offer-year{
+    font-size: 55px;
+    color: red;
+    margin-top: 10px;
+    font-weight: bold;
+    margin-bottom: 0px;
+  }
