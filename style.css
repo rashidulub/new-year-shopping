@@ -292,4 +292,46 @@ body {
     width: 70%;
     margin-left: 172px;
     margin-top: -200px;
+    
+  }
+
+  .portfolio-section    {
+    margin-top: 150px;
+    margin-left: 170px;
+  }
+
+  .portfolio-title{
+    font-size: 20px;
+    color: red;
+    margin-bottom: 0px;
+  }
+  .portfolio-title-name{
+    font-size: 45px;
+    margin-top: 5px;
+    font-weight: bold;
+    margin-bottom: 0px;
+
+  }
+  .portfolio-title-description{
+    font-size: 18px;
+    margin-top: 10px;
+    color: #808080;
+  }
+  .fasion-section{
+    display: flex;
+    margin-top: 80px;
+  }
+  .fasiion img{
+    height:350px;
+  }
+
+  .fasion-2{
+    margin-left: 30px;
+    margin-right: 30px;
+    
+  }
+  .fasion-section-2{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 50px;
   }
