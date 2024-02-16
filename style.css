@@ -196,6 +196,7 @@ body {
     display: flex;
     margin-left: 100px;
     margin-top: 100px;
+    margin-bottom: 50px;
   }
 
   .offer-title{
@@ -230,7 +231,7 @@ body {
   }
   .div-3{
     margin-left: 150px;
-    margin-top: 50px;
+    margin-top: 40px;
   }
 
   .offer-year{
@@ -239,4 +240,56 @@ body {
     margin-top: 10px;
     font-weight: bold;
     margin-bottom: 0px;
+  }
+
+  .funsion-title{
+    align-items: center;
+    text-align: center;
+    margin-top: 100px;
+    font-size: 20px;
+    margin-bottom: 0px;
+  }
+
+  .funstion-sale{
+    text-align: center;
+    font-size: 50px;
+    color: red;
+    margin-top: 10px;
+    margin-bottom: 0px;
+  }
+  .salte-strong{
+    color: black;
+  }
+
+  .funsion-description{
+    align-items: center;
+    text-align: center;
+    margin-top: 5px;
+    font-size: 17px;
+    color: #808080;
+  }
+  .sale-poster{
+    display: flex;
+    margin-top: 50px;
+
+  }
+  
+  .gift-banner{
+    height: 500px;
+  }
+
+  .circle-img{
+    margin-left: -200px;
+    position: absolute;
+    margin-top: 30px;
+  }
+  .sale-div-1{
+    margin-left: 200px;
+  }
+  .red{
+    
+    height: 100px;
+    width: 70%;
+    margin-left: 172px;
+    margin-top: -200px;
   }
